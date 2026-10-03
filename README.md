@@ -2,8 +2,6 @@
 
 A transfer-learning image classifier that identifies five flower species — **daisy, dandelion, roses, sunflowers, tulips** — from photos, built with TensorFlow/Keras and a frozen **MobileNetV2** backbone pretrained on ImageNet.
 
-> **Note:** This project was originally titled "Landmark Detection," but it is actually a flower classification model trained on the `tf_flowers` dataset, not a landmark or facial landmark detector.
-
 ---
 
 ## 📊 Results
